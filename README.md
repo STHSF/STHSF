@@ -6,7 +6,7 @@
 </a>
 
 #### Home page
-![Home page]https://sthsf.github.io/
+![Home page](https://sthsf.github.io/)
 
 #### wiki
-![Wiki]https://sthsf.github.io/wiki/
+![Wiki](https://sthsf.github.io/wiki/)
